@@ -98,4 +98,3 @@ appstore 539883307 LINE
 appstore 409203825 Numbers
 appstore 409201541 Pages
 appstore 497799835 Xcode
-
