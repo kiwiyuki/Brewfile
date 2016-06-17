@@ -86,14 +86,6 @@ brew zeromq
 brew zsh-completions
 brew zsh
 
-tap homebrew/dupes
-brew apple-gcc42
-
-tap osx-cross/avr
-brew avr-binutils
-brew avr-gcc
-brew avr-libc
-
 tap rcmdnk/file
 brew brew-file
 
