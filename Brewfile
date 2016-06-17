@@ -107,5 +107,3 @@ appstore 409203825 Numbers
 appstore 409201541 Pages
 appstore 497799835 Xcode
 
-# Other commands
-git kiwiyuki/Brewfile
