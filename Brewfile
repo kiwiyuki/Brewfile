@@ -58,6 +58,7 @@ brew imagemagick
 brew jpeg
 brew leiningen
 brew libelf
+brew libevent
 brew libffi
 brew libftdi0
 brew libmpc
@@ -80,6 +81,7 @@ brew pixman
 brew pkg-config
 brew qt5
 brew readline
+brew tmux
 brew vim --with-lua --with-python3 --HEAD
 brew xz
 brew zeromq
