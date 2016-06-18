@@ -90,7 +90,7 @@ tap rcmdnk/file
 brew brew-file
 
 tap sanemat/font
-brew ricty
+brew ricty --powerline
 
 # App Store applications
 appstore 409183694 Keynote
