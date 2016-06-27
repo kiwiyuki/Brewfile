@@ -14,6 +14,7 @@ cask bettertouchtool
 cask clion
 cask cyberduck
 cask dropbox
+cask duet
 cask eclipse-ide
 cask evernote
 cask google-chrome
